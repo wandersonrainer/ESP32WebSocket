@@ -1,0 +1,13 @@
+C:\Users\User\Documents\laboratorio\comm_WebSocket_ESP32\comm_WebSocket_ESP32\bin\Debug\comm_WebSocket_ESP32.exe.config
+C:\Users\User\Documents\laboratorio\comm_WebSocket_ESP32\comm_WebSocket_ESP32\bin\Debug\comm_WebSocket_ESP32.exe
+C:\Users\User\Documents\laboratorio\comm_WebSocket_ESP32\comm_WebSocket_ESP32\bin\Debug\comm_WebSocket_ESP32.pdb
+C:\Users\User\Documents\laboratorio\comm_WebSocket_ESP32\comm_WebSocket_ESP32\bin\Debug\websocket-sharp.dll
+C:\Users\User\Documents\laboratorio\comm_WebSocket_ESP32\comm_WebSocket_ESP32\bin\Debug\websocket-sharp.xml
+C:\Users\User\Documents\laboratorio\comm_WebSocket_ESP32\comm_WebSocket_ESP32\obj\Debug\comm_WebSocket_ESP32.csproj.AssemblyReference.cache
+C:\Users\User\Documents\laboratorio\comm_WebSocket_ESP32\comm_WebSocket_ESP32\obj\Debug\comm_WebSocket_ESP32.Form1.resources
+C:\Users\User\Documents\laboratorio\comm_WebSocket_ESP32\comm_WebSocket_ESP32\obj\Debug\comm_WebSocket_ESP32.Properties.Resources.resources
+C:\Users\User\Documents\laboratorio\comm_WebSocket_ESP32\comm_WebSocket_ESP32\obj\Debug\comm_WebSocket_ESP32.csproj.GenerateResource.cache
+C:\Users\User\Documents\laboratorio\comm_WebSocket_ESP32\comm_WebSocket_ESP32\obj\Debug\comm_WebSocket_ESP32.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\laboratorio\comm_WebSocket_ESP32\comm_WebSocket_ESP32\obj\Debug\comm_Web.96D4524A.Up2Date
+C:\Users\User\Documents\laboratorio\comm_WebSocket_ESP32\comm_WebSocket_ESP32\obj\Debug\comm_WebSocket_ESP32.exe
+C:\Users\User\Documents\laboratorio\comm_WebSocket_ESP32\comm_WebSocket_ESP32\obj\Debug\comm_WebSocket_ESP32.pdb
